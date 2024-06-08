@@ -1,36 +1,72 @@
-<img width="400px" heihgt="10px" align="center" src="https://e0.pxfuel.com/wallpapers/320/347/desktop-wallpaper-rog-design-computer-animated-for-pc-cool-pixel-art-pixel-art-gaming.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesochacha&label=Profile%20views&color=0e75b6&style=flat" alt="mosesochacha" /> </p>
+<div align="">
+  <img height="300" src="https://i.postimg.cc/Kj6GMmgt/Green-And-Dark-Green-Modern-Business-Linked-In-Banner-1.jpg"  />
+</div>
+###
 
-<h1 align="center">Hi 👋, I'm Moses Ochacha</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesochacha&label=Profile%20views&color=0e75b6&style=flat" alt="mosesochacha" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosesochacha" alt="mosesochacha" /></a> </p>
+<p align="left">Hello, I'm Moses Ochacha, a dedicated Full-Stack Developer driven by a passion for innovative solutions and organizational growth. Proficient in HTML5, CSS3, JavaScript, React.js, Node.js, and Ruby on Rails, I bring hands-on experience in UI/UX design, database management, and project collaboration. Currently excelling as a Full Stack Developer at Cinab, I actively contribute to scalable solutions, gaining insights into the software development lifecycle. With a commitment to community impact, I volunteer as a Software Developer for 'I AM HESHIMA,' fostering awareness and providing mentorship. A Moringa School Software Engineering graduate, I also hold leadership roles, serving as a Team Lead and Scrum Master</p>
 
-- 🔭 I’m currently working on [petflix project](https://project-petflix.vercel.app/)
+###
 
-- 🌱 I’m currently learning **Ruby and Rails**
+<h3 align="left">🛠 Language and tools</h3>
 
-- 🔭 I’m currently working on [Inshort news](https://inshort-news.vercel.app/)
+###
 
-- 💬 Ask me about **react ,js , html**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+</div>
 
-- 📫 How to reach me **ochachamoses443@gmail.com**
+###
 
-- ⚡ Fun fact **I spend atleast 30minutes per day to listen music**
+<h3 align="left">🔥   My Stats :</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/people/Humble-Boy/pfbid0ZSgpN3LfG3V5NKYBLuCnK5UEb5TxfLwuGTBzpCRMLjW28Va58o27vZBeJaqpWXjWl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100081893816242" height="30" width="40"></a>
-<a href="https://instagram.com/humbleboy312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="humble boy" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mosesochacha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosesochacha&show_icons=true&locale=en&layout=compact" alt="mosesochacha" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosesochacha&show_icons=true&locale=en" alt="mosesochacha" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mosesochacha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mosesochacha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosesochacha&" alt="mosesochacha" /></p>
+###
+
+<img src="https://raw.githubusercontent.com/Mosesochacha/Mosesochacha/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+</div>
+
+###
